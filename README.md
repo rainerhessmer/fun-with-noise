@@ -1,6 +1,6 @@
 # Fun with Noise
 Playing with Perlin and Simplex noise in the browser. The code leverages
-https://github.com/josephg/noisejs and liberally leverages the provided samples.
+https://github.com/josephg/noisejs and liberally uses the provided samples.
 
 ## Fuzzy
 [fuzzy.html](/web/fuzzy.html) produces fuzzy lines using Perlin noise to guide the trajectory of particles.
